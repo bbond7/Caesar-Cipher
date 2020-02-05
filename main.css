@@ -1,0 +1,9 @@
+body {
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+#result {
+    margin-top: 8px;
+    font-weight: bold;
+}
